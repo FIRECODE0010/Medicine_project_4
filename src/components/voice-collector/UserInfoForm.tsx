@@ -176,7 +176,7 @@ const UserInfoForm: React.FC<UserInfoFormProps> = ({
                   value={drug}
                   className='text-lg py-3 hover:bg-blue-50 focus:bg-blue-100'
                 >
-                  {index + 31}- 💊 {drug}
+                  {index + 46}- 💊 {drug}
                 </SelectItem>
               ))}
             </SelectContent>
